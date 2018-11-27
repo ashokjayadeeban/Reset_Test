@@ -1,5 +1,8 @@
 a first content
+<<<<<<< HEAD
 
 b second content
 
 c third content after soft 
+=======
+>>>>>>> parent of dbc3ef2... second commit
